@@ -1,0 +1,22 @@
+{
+  "name": "tip1",
+  "data": [
+    {
+      "type": "h1",
+      "content": "Tip Of The Day!"
+    },
+    {
+      "type": "img",
+      "content": "cat.jpg"
+    },
+    {
+      "type": "p",
+      "content": "What do you think of this cute kitty?"
+    },
+    {
+      "type": "p",
+      "content": ":D"
+    }
+  ],
+  "meta": {}
+}

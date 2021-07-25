@@ -1,0 +1,30 @@
+{
+  "name": "md2json-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "md2json": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherryseed-app/md2json-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherryseed-app/md2json-cli/issues"
+  },
+  "homepage": "https://github.com/cherryseed-app/md2json-cli#readme",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "prettier": "^2.3.1",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}

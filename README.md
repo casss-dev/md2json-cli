@@ -1,6 +1,6 @@
 # md2json-cli
 
-A command line tool for converting markdown and MDX files into an API consumable JSON format.
+> A command line tool for converting markdown and MDX files into an API consumable JSON format.
 
 ## Usage
 
